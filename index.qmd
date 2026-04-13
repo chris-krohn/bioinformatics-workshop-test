@@ -2,6 +2,8 @@
 title: "RACE x Bioinformatics Network: Intro to Cloud and Data Lakes"
 ---
 
+![](img/test.png){width="100%"}
+
 # Description
 
 RACE and the Bioinformatics Network are hosting a training event on "Intro to Cloud and Data Lakes."
